@@ -2,6 +2,7 @@
 
 ![картинка](https://www.thewatchtower.com/assets/images/blog_images/how-to-use-git-version-control-in-cpanel1624580050.jpg)
 
+## Перед началом первой работы совершить настройку профиля. 
 
 **git config --global user.name "ВАШЕ_ИМЯ"
 git config --global user.email АДРЕС** - настройка профиля (имя, электронный адрес )
@@ -32,5 +33,4 @@ git config --global user.email АДРЕС** - настройка профиля 
 
 # Link to the source
 
-[шпаргалка по git](https://github.com/cyberspacedk/Git-commands/blob/master/readme.md)
-
+[руководоство по git](https://github.com/cyberspacedk/Git-commands/blob/master/readme.md)
