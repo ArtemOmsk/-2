@@ -1,5 +1,8 @@
 # My git instuction
 
+![картинка](https://www.thewatchtower.com/assets/images/blog_images/how-to-use-git-version-control-in-cpanel1624580050.jpg)
+
+
 **git config --global user.name "ВАШЕ_ИМЯ"
 git config --global user.email АДРЕС** - настройка профиля (имя, электронный адрес )
 
@@ -29,4 +32,5 @@ git config --global user.email АДРЕС** - настройка профиля 
 
 # Link to the source
 
-[шпаргалка по git](https://translated.turbopages.org/proxy_u/en-ru.ru.baf7c468-62b6bfc9-3ff353df-74722d776562/https/github.com/mushanshitiancai/vscode-paste-image/blob/master/README.md)
+[шпаргалка по git](https://github.com/cyberspacedk/Git-commands/blob/master/readme.md)
+
