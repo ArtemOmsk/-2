@@ -27,3 +27,6 @@ git config --global user.email АДРЕС** - настройка профиля 
 
 **git revert HEAD --no-edit** - создать новый коммит, отменяющий изменения последнего коммита без запуска редактора сообщения
 
+# Link to the source
+
+[шпаргалка по git](https://translated.turbopages.org/proxy_u/en-ru.ru.baf7c468-62b6bfc9-3ff353df-74722d776562/https/github.com/mushanshitiancai/vscode-paste-image/blob/master/README.md)
